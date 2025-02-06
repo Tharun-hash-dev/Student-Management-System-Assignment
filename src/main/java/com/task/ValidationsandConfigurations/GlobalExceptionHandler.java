@@ -1,3 +1,4 @@
+package com.task.validationsandConfigurations;
 
 @ControllerAdvice
 public class GlobalExceptionHandler {
